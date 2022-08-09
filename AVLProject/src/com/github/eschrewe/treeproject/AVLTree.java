@@ -1,4 +1,4 @@
-package avlMain;
+package com.github.eschrewe.treeproject;
 
 import java.util.ArrayList;
 
